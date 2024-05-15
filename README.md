@@ -1,6 +1,7 @@
           Hello World!!!
 Jadi ini adalah projek yang pernah client minta,<br>
 sesuai permintaan,saya membuatnya dengan simple dan tidak terlalu banyak fitur,<br>
+disini saya hanya menggunakan php,bootstrap,dan juga js <br>
 Untuk kedepannya mungkin projek ini akan saya upgrade lagi dengan tambahan beberapa fitur dan menggunakan Framework Laravel.<br>
 Terimakasih
 
